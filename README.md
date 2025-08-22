@@ -105,8 +105,6 @@ This structured output provides a clear summary of the employee’s financial an
 ## 🧠 Use Cases
 
 This project is ideal for:
-
-- **Academic submissions** for C++ coursework  
 - **Internship portfolios** to showcase command-line applications  
 - **Small businesses** needing a lightweight payroll tracker  
 - **Beginners** learning file handling, conditionals, and structured output in C++

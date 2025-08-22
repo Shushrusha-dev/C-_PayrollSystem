@@ -25,24 +25,41 @@ This system allows HR personnel or administrators to:
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Screenshot:
+
 E:\CPP_Project>Main.exe
+
 Enter the password :23
+
 Employee ID: PRN123
+
 Name : Z James
+
 Gender : male
+
 Contact No.: 9435627994
+
 Email Add: zu@gmail.com
+
 City : Pune
+
 Overtime Salary: 9600
+
 Holidays: 2
+
 Experience : 1
+
 Date of joining: 10-May-2020
+
 Project : Unity Hub
+
 Status : Active
+
 Gross salary : 50000
+
 Net salary : 40600
-```
+
+
 This structured output provides a clear summary of the employee’s financial and professional details.
 
 
